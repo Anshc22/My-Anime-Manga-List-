@@ -1,6 +1,6 @@
 # My-Anime-Manga-List-
 
-## Note:- Usage of proxies or increasing the sleep duration is advised if extracting large datasets for manga as they might blacklist your ip
+## Note:- While using  proxies, increase the sleep duration as extracting large datasets are getting extracted.They might blacklist your ip if not dealt with the sleep duration.
 
 Scrapes  for top rated manga on myanime
 Edit the Headers tab and the execute the script.
